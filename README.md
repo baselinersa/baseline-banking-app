@@ -86,4 +86,4 @@ baseline-banking-app/
 **Bonginkosi Sean” Khumalo**  
 BSc Mathematical Sciences Student At SMU 
 Aspiring Data Scientist & Software Developer  
-📍 South Africa
+📍 South Africa|Gauteng|Pretoria
