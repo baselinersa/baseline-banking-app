@@ -59,3 +59,31 @@ This app was built to strengthen my skills in **Python programming, data handlin
 ---
 
 ## 📂 Project Structure
+baseline-banking-app/
+│
+├── main.py
+├── transactions.txt
+├── balances.txt
+├── utils/
+│ ├── ai_insights.py
+│ ├── account_manager.py
+│
+└── README.md
+
+
+---
+
+## 📈 Future Improvements
+- Graphical User Interface (GUI)
+- Database integration (SQLite / PostgreSQL)
+- User profiles and authentication system
+- Data visualizations and dashboards
+- Machine learning-based spending predictions
+
+---
+
+## 👨🏽‍💻 Author
+**Bonginkosi Sean” Khumalo**  
+BSc Mathematical Sciences Student At SMU 
+Aspiring Data Scientist & Software Developer  
+📍 South Africa
